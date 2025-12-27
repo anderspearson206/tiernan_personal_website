@@ -31,11 +31,12 @@
 - title: Experience
   type: time_table
   contents:
-    institution: Lakeridge Swim Club, Seattle, WA
-    year: 2022 - 2025
-    description:
-      - "As Coach: Led a team of 140 swimmers during practices and meets, collaborating with 8 other coaching staff."
-      - "As Lifeguard: Oversaw daily pool operations and managed over 100 patrons."
+    - title: Assistant Swim Coach & Lifeguard
+      institution: Lakeridge Swim Club, Seattle, WA
+      year: 2020 - 2022
+      description:
+        - "As Coach: Led a team of 140 swimmers during practices and meets, collaborating with 8 other coaching staff."
+        - "As Lifeguard: Oversaw daily pool operations and managed over 100 patrons."
 
 - title: Technical Skills
   type: nested_list
