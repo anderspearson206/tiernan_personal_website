@@ -9,26 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "publications",
-          description: "My publications and preprints, in reverse chronological order.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-projects",
+  },{id: "nav-projects",
           title: "projects",
           description: "This section is still being updated to include all projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
-          },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Here are the repositories for some of the recent projects I have worked on.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
           title: "cv",
@@ -53,50 +39,31 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-lunar-terrain-generator",
-          title: 'Lunar Terrain Generator',
-          description: "A generation algorithm based on topographic statistics of the moon",
+          section: "News",},{id: "projects-my-3d-prings",
+          title: 'My 3d Prings',
+          description: "A collection of things I have 3d printed",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-radiolunadiff",
-          title: 'RadioLunaDiff',
-          description: "Estimation of wireless network signal strength in lunar terrain",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
             },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%61%6E%64%65%72%73%70%65%61%72%73%6F%6E%32%30%36@%67%6D%61%69%6C.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/anderspearson206", "_blank");
+          window.open("mailto:%74%69%65%72%6E%61%6E%70%65%61%72%73%6F%6E%32%30%36@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-instagram',
         title: 'Instagram',
         section: 'Socials',
         handler: () => {
-          window.open("https://instagram.com/anders.pearson", "_blank");
+          window.open("https://instagram.com/tiernanpearson_", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/anders-pearson", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=Zv7UwYMAAAAJ&hl", "_blank");
+          window.open("https://www.linkedin.com/in/tiernanpearson", "_blank");
         },
       },{
       id: 'light-theme',
