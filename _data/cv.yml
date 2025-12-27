@@ -2,124 +2,54 @@
   type: map
   contents:
     - name: Full Name
-      value: Anders Pearson
+      value: Tiernan Pearson
     - name: Email
-      value: AndersPearson206@gmail.com
+      value: TiernanPearson206@gmail.com
     - name: UW Email
-      value: amp206@uw.edu
+      value: tjp19@uw.edu
     - name: LinkedIn
-      value: <a href="https://www.linkedin.com/in/anders-pearson">www.linkedin.com/in/anders-pearson</a>
+      value: <a href="https://www.linkedin.com/in/tiernanpearson/">www.linkedin.com/in/tiernanpearson</a>
 
 - title: Education
   type: time_table
   contents:
-    - title: Concurrent B.S./M.S. Program
+    - title: B.S.
       institution: University of Washington, Seattle, WA
-      year: 2022 - Current
+      year: 2025 - Current
       description:
-        - Master of Science (M.S.), Electrical Engineering (Expected June 2027)
-        - Bachelor of Science (B.S.), Electrical and Computer Engineering (Expected June 2026)
-        - "GPA: 3.86/4.0, ECE GPA: 3.95"
+        - Bachelor of Science (B.S.), Aerospace Engineering (Expected June 2029)
+        - "GPA: 4.0/4.0"
         - title: Relevant Coursework
           contents:
-            - Machine Learning Algorithms, TinyML, Network Security and Cryptography, Robotics, Digital Signal Processing, Digital Circuits and System, Network Architecture, ML for Signal Processing, Data Structures and Algorithms, C and C++ Programming, Natural Language Processing (NLP), Random Signals for Communications
-    - title: Summer Exchange Program, RASF Scholar
-      institution: TU Berlin, Berlin, Germany
-      year: 2024
-      description:
-        - Designed, built, and launched a Can-Sat Sattelite with a team of 5 other engineering students from across the globe.
-        - "GPA: 4.0/4.0"
+            - Calculus
     - title: High School
       institution: Garfield High School, Seattle, WA
-      year: 2018 - 2022
+      year: 2021 - 2025
       description:
-        - "Activities: Captain of Varsity Swim Team, Vice President of DECA (financial literacy club), President of Dawgpound (school spirit club)."
+        - "Activities: Robotics Club"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Research Assistant / Summer 2025 Research Intern
-      institution: Sensor Systems Laboratory, Paul G. Allen School of Computer Science & Engineering, Seattle, WA
-      year: 2024 - Current
-      description:
-        - Researching RF signal processing, artificial intelligence, and 6G wireless communication systems with Prof. Joshua Smith
-        - Developed a novel, physics-informed deep learning framework for the NASA LunaNet program that outperformed all existing baselines, achieving a .9068 SSIM in predicting wireless network coverage on the moon.
-        - Engineered a high-fidelity data pipeline in Python to generate a dataset of 65,000 radio maps, simulating lunar terrains and wave propagation using the NVIDIA Sionna ray-tracing engine, and spearheaded analyzing data and data cleaning
-        - Developed and parallelized a custom terrain generator based on lunar topographic statistics, improving data generation speed by 10x
-        - Designed and implemented a triplet-U-Net architecture with a Denoising Diffusion Probabilistic Model (DDPM) to refine signal predictions by modeling wave propagation based on the Helmholtz equation in 3 dimensions.
-        - Conducted comprehensive experiments and ablation studies yielding a 10% improvement in NMSE
-        - Collaborated to co-author a research paper, which was submitted to the IEEE ICASSP 2026 conference.
-        - title: Research Links
-          contents:
-            - 'Paper: <a href="https://www.arxiv.org/pdf/2509.14559" target="_blank">https://www.arxiv.org/pdf/2509.14559</a>'
-            - 'Project Website: <a href="https://radiolunadiff.github.io" target="_blank">https://radiolunadiff.github.io</a>'
-            - 'GitHub: <a href="https://github.com/anderspearson206/LunarTerrainGenerator" target="_blank">LunarTerrainGenerator</a>'
-    - title: Software Engineering Internship
-      institution: WiBotic Inc., Seattle, WA
-      year: 2023
-      description:
-        - Developed a C/C++ program for ESP32s to transmit CAN data via Ethernet/WiFi, enabling real-time remote diagnostics for robotic charging systems, collaborating and communicating with a small start-up team to problem-solve
-        - Enhanced the Pycyphal library by integrating support for the Socketcand CAN interface, improving compatibility and functionality for a team of 20 engineers
-        - title: Project Links
-          contents:
-            - 'GitHub (socketcand_translate): <a href="https://github.com/wibotic/socketcand_translate" target="_blank">wibotic/socketcand_translate</a>'
-            - 'GitHub (Pycyphal PR): <a href="https://github.com/OpenCyphal/pycyphal/pull/306" target="_blank">OpenCyphal/pycyphal/pull/306</a>'
-    - title: Engineering Intern
-      institution: WiBotic Inc., Seattle, WA
-      year: 2022
-      description:
-        - Worked with the production team to test product hardware/software reliability, collected data, and helped troubleshoot internal software tools.
-        - Managed inventory, shipping, and receiving.
-    - title: Server / Host
-      institution: Skyline Seattle
-      year: 2024
-      description:
-        - "Worked in the dining hall of an assisted living community, serving as a server and host for residents."
-    - title: Assistant Swim Coach & Lifeguard
-      institution: Lakeridge Swim Club, Seattle, WA
-      year: 2020 - 2022
-      description:
-        - "As Coach: Led a team of 140 swimmers during practices and meets, collaborating with 8 other coaching staff."
-        - "As Lifeguard: Oversaw daily pool operations and managed over 100 patrons."
-    - title: Private Contractor
-      institution: CDC Construction, Seattle, WA
-      year: 2020 - 2022
-      description:
-        - Managed expenses, led a team of skilled laborers, and communicated with clients to build fences, decks, and other landscaping requests.
-    - title: House Painter
-      institution: Othello Partners Inc., Seattle, WA
-      year: 2021
-      description:
-        - Worked independently to assess and fix paint and maintenance problems to prepare houses for sale.
+    institution: Lakeridge Swim Club, Seattle, WA
+    year: 2022 - 2025
+    description:
+      - "As Coach: Led a team of 140 swimmers during practices and meets, collaborating with 8 other coaching staff."
+      - "As Lifeguard: Oversaw daily pool operations and managed over 100 patrons."
 
 - title: Technical Skills
   type: nested_list
   contents:
-    - title: Programming Languages
+    - title: CAD Software
       items:
-        - Python, C++, C, Java, Bash
-    - title: AI/ML
+        - Solidworks
+    - title: Aerospace
       items:
-        - PyTorch, TensorFlow, TensorFlow Lite, Scikit-learn, NumPy, Pandas, Computer Vision, CNN, Generative AI
-    - title: Developer Tools
-      items:
-        - Git, Linux, Docker, PowerShell, CUDA, Apptainer, Vim
-    - title: Hardware & EE
-      items:
-        - Microcontrollers (ESP32, Arduino), Embedded Systems, CAN bus, Socketcand, RF Signal Processing, Digital Circuits, NVIDIA Sionna (Ray-Tracing), Fuzzing, Verilog / SystemVerilog, FPGA, Soldering, Simulink, Model
-
-- title: Leadership
-  type: time_table
-  contents:
-    - title: Vice President/Head of Risk Management
-      institution: Tau Kappa Epsilon Chi Chapter, Seattle, WA
-      year: 2023 - 2025
+        - Computational Fluid Dynamics (CFD)
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2022
+    - year: 2025
       items:
-        - Mary Gates Scholar (University of Washington)
         - Valedictorian (Garfield High School)
-        - National Merit Scholar (National Merit Scholarship Corporation)

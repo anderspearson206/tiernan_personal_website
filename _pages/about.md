@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Electrical and Computer Engineering Student @ UW | Research Assistant, Senor Systems Laboratory
+subtitle: Aspiring Aerospace Engineering Student @ UW
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: t_prof_pic.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>2302 32nd Ave S</p>
@@ -32,8 +32,6 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hello, welcome to my website (still a work in progress). I am a concurrent B.S./M.S. student in Electrical and Computer Engineering at the University of Washington.
+Hello, welcome to my website. I am an Engineering Student at the University of Washington.
 
-As a research assistant in the Sensor Systems Laboratory, I am advised by Professor Joshua Smith. My research focuses on the intersection of machine learning, signal processing, and wireless communications.
-
-My most recent work involves developing novel deep learning frameworks to predict wireless network coverage in challenging environments, with a special focus on future lunar missions for NASA's LunaNet program. I am passionate about applying signal processing and ML to problems here on earth or in space!
+I aspire to study Aerospace Engineering, and am passionate about building planes to deliver poop.
