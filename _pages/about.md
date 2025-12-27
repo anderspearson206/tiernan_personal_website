@@ -6,7 +6,7 @@ subtitle: Aspiring Aerospace Engineering Student @ UW
 
 profile:
   align: right
-  image: t_prof_pic.jpg
+  image: t_prof_pic.png
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>2302 32nd Ave S</p>
