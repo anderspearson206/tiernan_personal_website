@@ -4,16 +4,18 @@
     - name: Full Name
       value: Tiernan Pearson
     - name: Email
-      value: TiernanPearson206@gmail.com
+      value: tiernanpearson206@gmail.com
     - name: UW Email
       value: tjp19@uw.edu
+    - name: Phone
+      value: (206)-745-2924
     - name: LinkedIn
       value: <a href="https://www.linkedin.com/in/tiernanpearson/">www.linkedin.com/in/tiernanpearson</a>
 
 - title: Education
   type: time_table
   contents:
-    - title: B.S.
+    - title: B.S. Aerospace Engineering
       institution: University of Washington, Seattle, WA
       year: 2025 - Current
       description:
@@ -22,31 +24,85 @@
         - title: Relevant Coursework
           contents:
             - Calculus
-    - title: High School
+    - title: High School Diploma
       institution: Garfield High School, Seattle, WA
       year: 2021 - 2025
       description:
-        - "Activities: Robotics Club"
+        - "GPA: 4.0/4.0 Unweighted (4.45 Weighted)"
+        - "Activities: Robotics Club (Mechanical Member), Men's Swim & Dive (Captain)"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Assistant Swim Coach & Lifeguard
-      institution: Lakeridge Swim Club, Seattle, WA
-      year: 2022 - 2025
+    - title: Lead Swim Coach & Member
+      institution: Lakeridge Swim Team, Seattle, WA
+      year: 2021 - 2025
       description:
-        - "As Coach: Led a team of 140 swimmers during practices and meets, collaborating with 8 other coaching staff."
-        - "As Lifeguard: Oversaw daily pool operations and managed over 100 patrons."
+        - "Coached 140+ swimmers (ages 5-14) from beginner to state champion levels; taught advanced butterfly, backstroke, breaststroke, and freestyle techniques."
+        - "Optimized competition lineups based on historical data and opponent analysis to maximize team performance."
+        - "Mentored and trained new coaches and senior swimmers entering coaching roles."
+        - "Determined seasonal award winners and delivered speeches to recognize individual achievements."
+    - title: Swim Lessons Instructor
+      institution: Lakeridge Swim Club, Seattle, WA
+      year: 2021 - 2024
+      description:
+        - "Led three 40-minute instructional classes (4-8 swimmers each) four days per week."
+        - "Taught water safety, stroke technique, dives, and flip turns for children aged 3 to 14."
+        - "Evaluated swimmer progression and communicated advancement milestones to parents."
+    - title: Team Captain (Men's Swim & Dive)
+      institution: Garfield High School, Seattle, WA
+      year: 2021 - 2025
+      description:
+        - "Served as the primary liaison between coaching staff and a team of 30+ athletes."
+        - "Qualified for the WA State Championship as a Freshman; Metro Championship swimmer all four years."
+        - "Facilitated daily practices and fostered team culture through personal mentorship of new swimmers."
+    - title: Team Manager (Women's Swim & Dive)
+      institution: Garfield High School, Seattle, WA
+      year: 2021 - 2023
+      description:
+        - "Provided technical feedback to swimmers during morning practices and meets."
+        - "Managed logistics for home meets, including pool preparation and timing operations."
+        - "Served as an auxiliary lifeguard to ensure safety during team events."
+
+- title: Engineering Projects
+  type: time_table
+  contents:
+    - title: Remote Control Plane & Glider Design
+      institution: Independent Project
+      year: 2023 - Present
+      description:
+        - "Designed and built a foam RC plane with 3-axis rotation and throttle to study aerodynamics and flight mechanics."
+        - "Engineered a 3D-printed glider using OnShape; calibrated a Bambu Lab A1 printer for thin-wall printing to optimize weight-to-strength ratios."
+        - "Conducted iterative test flights and data-driven research to improve flight endurance and structural integrity."
+    - title: Robotics Club Mechanical Member
+      institution: Garfield High School / FIRST Tech Challenge
+      year: 2024 - Present
+      description:
+        - "Collaborated on the design, build, and programming of robots for FTC competitions."
+        - "Won a club-wide model bridge building competition; utilized OnShape for 3D modeling and stress simulation."
+        - "Assembled balsa wood structures using custom laser-cut stencils and segments."
 
 - title: Technical Skills
   type: nested_list
   contents:
-    - title: CAD Software
+    - title: CAD & Simulation
       items:
-        - Solidworks
-    - title: Aerospace
+        - "OnShape (Proficient)"
+        - "Solidworks"
+        - "Computational Fluid Dynamics (CFD)"
+        - "Structural Stress Simulation"
+    - title: Fabrication & Hardware
       items:
-        - Computational Fluid Dynamics (CFD)
+        - "3D Printing (Bambu Lab A1 Calibration & Maintenance)"
+        - "Laser Cutting"
+        - "Advanced Woodworking"
+        - "Balsa Wood Structural Assembly"
+    - title: Professional & Research
+      items:
+        - "Aerodynamics Research"
+        - "Technical Mentorship"
+        - "Iterative Design & Prototyping"
+        - "Team Leadership & Coordination"
 
 - title: Honors and Awards
   type: time_table
@@ -54,3 +110,12 @@
     - year: 2025
       items:
         - Valedictorian (Garfield High School)
+    - year: 2024
+      items:
+        - Winner, Garfield Robotics Bridge Building Competition
+    - year: 2021
+      items:
+        - GSSSL All City Swimmer
+    - year: 2020
+      items:
+        - NW 14&U Regional Championship Swimmer
