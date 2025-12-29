@@ -35,3 +35,5 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 Hello, welcome to my website. I am an Engineering Student at the University of Washington.
 
 I aspire to study Aerospace Engineering, and am passionate about building planes to deliver poop.
+
+And I like to [dance]({{ '/assets/video/dance.mp4' | relative_url }})!
