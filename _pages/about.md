@@ -33,7 +33,3 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 Hello, welcome to my website. I am an Engineering Student at the University of Washington.
-
-I aspire to study Aerospace Engineering, and am passionate about building planes to deliver poop.
-
-And I like to [dance]({{ '/assets/video/dance.mp4' | relative_url }})!
